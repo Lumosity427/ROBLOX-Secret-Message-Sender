@@ -1,9 +1,9 @@
 # ROBLOX-Secret-Message-Sender
-this is for secret messaging. GO to the chat and type the following: /console  after that, paste the script in, also, read the end of the script for a surprise :D
+--this is for secret messaging. GO to the chat and type the following: /console  after that, paste the script in, also, read the end of the script for a surprise :D
 
 
-
-
+--But, you might want to sort the script out
+-- but it might be fine for some people if you use a normal executor
 
 --thank you for chosing extcotical
 
